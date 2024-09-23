@@ -1,0 +1,14 @@
+.recipe{
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    min-width: 30%;
+    text-transform: capitalize;
+    background-image: linear-gradient(to left, #2BC0E4 0%,#EAECC6);
+   
+}
+
